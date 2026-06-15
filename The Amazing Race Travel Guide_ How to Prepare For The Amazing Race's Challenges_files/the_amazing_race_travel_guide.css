@@ -185,6 +185,24 @@
 .copyright_links:hover, .storage_links:hover{
     color: var(--the-amazing-race-travel-guide-footer-text-color);
 }
+@media (max-width: 800px){
+    #the_amazing_race_travel_guide_challenge_content{
+        display: grid;
+        grid-template-columns: 25% 25% 50%;
+        grid-template-rows: auto auto auto auto;
+        grid-template-areas: 
+        "header header header"
+        "sidebar main main"
+        "physical physical mental"
+        "footer footer footer";
+    }
+    .the_amazing_race_travel_guide_first_title_line_group{
+        left: 180px;
+    }
+    .the_amazing_race_travel_guide_second_title_line_group{
+        left: 230px;
+    }
+}
 @keyframes flyPlane{
     0%{opacity: 1; transform: translate(-860px, 0px);}
     50%{opacity: 1; transform: translate(210px, 0px);}
