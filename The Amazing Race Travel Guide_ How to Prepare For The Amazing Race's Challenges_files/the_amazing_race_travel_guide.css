@@ -123,10 +123,8 @@
     font-size: 15px;
     grid-area: booking;
 }
-#the_amazing_race_travel_guide_boston_rob_and_amber_photo,
 #the_amazing_race_travel_guide_watermeleon_slingshot_photo,
-#the_amazing_race_travel_guide_my_ox_is_broken_photo,
-#the_amazing_race_travel_guide_airport_chaos_photo{
+#the_amazing_race_travel_guide_my_ox_is_broken_photo{
     filter: contrast(75%) opacity(80) grayscale(0.4); 
 }
 #the_amazing_race_travel_guide_packing_section{
