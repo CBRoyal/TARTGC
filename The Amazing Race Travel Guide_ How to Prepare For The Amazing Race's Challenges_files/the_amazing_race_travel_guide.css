@@ -107,32 +107,9 @@
 .the_amazing_race_travel_guide_nav_links li a:active{
     color: var(--the-amazing-race-travel-guide-nav-links-active-color);
 }
-#the_amazing_race_travel_guide_challenge_section{
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font-size: 15px;
-    grid-area: challenge;
-}
-#the_amazing_race_travel_guide_challenge_part{
-    color: var(--the-amazing-race-travel-guide-challenge-section-text-color);
-    background-color: var(--the-amazing-race-travel-guide-challenge-section-color);
-}
-#the_amazing_race_travel_guide_travel_booking_section{
-    color: var(--the-amazing-race-travel-guide-travel-booking-section-text-color);
-    background-color: var(--the-amazing-race-travel-guide-travel-booking-section-color);
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font-size: 15px;
-    grid-area: booking;
-}
 #the_amazing_race_travel_guide_watermeleon_slingshot_photo,
 #the_amazing_race_travel_guide_my_ox_is_broken_photo{
     filter: contrast(75%) opacity(80) grayscale(0.4); 
-}
-#the_amazing_race_travel_guide_packing_section{
-    color: var(--the-amazing-race-travel-guide-packing-section-text-color);
-    background-color: var(--the-amazing-race-travel-guide-packing-section-color);
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font-size: 15px;
-    grid-area: packing;
 }
 #the_amazing_race_travel_guide_challenge_main_section{
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -152,48 +129,6 @@
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 15px;
     grid-area: mental;
-}
-#the_amazing_race_travel_guide_land_travel_section{
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font-size: 15px;
-    grid-area: land;
-}
-#the_amazing_race_travel_guide_land_travel_part{
-    color: var(--the-amazing-race-travel-guide-footer-text-color);
-    background-color: var(--the-amazing-race-travel-guide-website-bg-border-color);
-}
-#the_amazing_race_travel_guide_water_travel_section{
-    color: var(--the-amazing-race-travel-guide-water-travel-section-text-color);
-    background-color: var(--the-amazing-race-travel-guide-water-travel-section-color);
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font-size: 15px;
-    grid-area: water;
-}
-#the_amazing_race_travel_guide_air_travel_section{
-    color: var(--the-amazing-race-travel-guide-water-travel-section-color);
-    background-color: var(--the-amazing-race-travel-guide-footer-text-color);
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font-size: 15px;
-    grid-area: air;
-}
-#the_amazing_race_travel_guide_packing_main_section{
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font-size: 15px;
-    grid-area: pack;
-}
-#the_amazing_race_travel_guide_packing_necessary_items_section{
-    color: var(--the-amazing-race-travel-guide-necessary-items-section-text-color);
-    background-color: var(--the-amazing-race-travel-guide-necessary-items-section-color);
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font-size: 15px;
-    grid-area: necessary;
-}
-#the_amazing_race_travel_guide_packing_just_in_case_items_section{
-    color: var(--the-amazing-race-travel-guide-just-in-case-items-section-text-color);
-    background-color: var(--the-amazing-race-travel-guide-just-in-case-items-section-color);
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font-size: 15px;
-    grid-area: incase;
 }
 .the_amazing_race_travel_guide_buttons{
     background-color: var(--the-amazing-race-travel-guide-website-bg-color);
@@ -216,6 +151,7 @@
     background-color: var(--the-amazing-race-travel-guide-website-bg-border-color);
     color: var(--the-amazing-race-travel-guide-footer-text-color);
     font-size: 25px;
+    padding: 0 5px;
     grid-area: footer;
 }
 .copyright_links, .storage_links{
