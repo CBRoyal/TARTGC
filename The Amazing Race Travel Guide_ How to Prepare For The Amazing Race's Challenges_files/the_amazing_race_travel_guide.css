@@ -116,6 +116,10 @@
     font-size: 15px;
     grid-area: main;
 }
+#the_amazing_race_travel_guide_main_website_title, 
+#the_amazing_race_travel_guide_watermeleon_slingshot_photo{
+    margin-left: 205px;
+}
 #the_amazing_race_travel_guide_physical_challenge_section{
     color: var(--the-amazing-race-travel-guide-physical-challenge-section-text-color);
     background-color: var(--the-amazing-race-travel-guide-physical-challenge-section-color);
