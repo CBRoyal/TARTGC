@@ -223,4 +223,8 @@
     .the_amazing_race_travel_guide_second_title_line_group{
         left: 230px;
     }
+    #the_amazing_race_travel_guide_main_website_title, 
+    #the_amazing_race_travel_guide_watermeleon_slingshot_image{
+        margin-left: 60px;
+    }
 }
