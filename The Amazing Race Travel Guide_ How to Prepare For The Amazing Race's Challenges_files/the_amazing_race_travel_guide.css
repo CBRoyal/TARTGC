@@ -130,7 +130,7 @@
     grid-area: physical;
 }
 #the_amazing_race_travel_guide_physical_challenge_section_title{
-    margin-left: 140px;
+    margin-left: 125px;
 }
 #the_amazing_race_travel_guide_my_ox_is_broken_image, #the_amazing_race_riverdance_challenge_image{
     margin-left: 110px;
@@ -148,6 +148,9 @@
     padding: 5px;
     font-size: 15px;
     grid-area: mental;
+}
+#the_amazing_race_travel_guide_mental_challenge_section_title{
+    margin-left: 115px;
 }
 .the_amazing_race_travel_guide_buttons{
     background-color: var(--the-amazing-race-travel-guide-website-bg-color);
