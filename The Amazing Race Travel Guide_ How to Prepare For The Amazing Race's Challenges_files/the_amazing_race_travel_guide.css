@@ -129,6 +129,9 @@
     font-size: 15px;
     grid-area: physical;
 }
+#the_amazing_race_travel_guide_physical_challenge_section_title{
+    margin-left: 140px;
+}
 #the_amazing_race_travel_guide_dancing_challenge_subsection{
     border-top: 10px solid var(--the-amazing-race-travel-guide-physical-challenge-section-text-color);
 }
