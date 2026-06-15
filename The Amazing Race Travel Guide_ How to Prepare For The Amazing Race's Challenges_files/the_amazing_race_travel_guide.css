@@ -127,6 +127,9 @@
     font-size: 15px;
     grid-area: physical;
 }
+#the_amazing_race_travel_guide_dancing_challenge_subsection{
+    border-top: 10px solid var(--the-amazing-race-travel-guide-physical-challenge-section-text-color);
+}
 #the_amazing_race_travel_guide_mental_challenge_section{
     color: var(--the-amazing-race-travel-guide-mental-challenge-section-text-color);
     background-color: var(--the-amazing-race-travel-guide-mental-challenge-section-color);
