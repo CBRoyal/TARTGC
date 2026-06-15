@@ -120,7 +120,8 @@
 #the_amazing_race_travel_guide_watermeleon_slingshot_photo{
     margin-left: 195px;
 }
-#the_amazing_race_travel_guide_physical_challenge_section{
+#the_amazing_race_travel_guide_physical_challenge_section,
+#the_amazing_race_travel_guide_dancing_challenge_subsection{
     color: var(--the-amazing-race-travel-guide-physical-challenge-section-text-color);
     background-color: var(--the-amazing-race-travel-guide-physical-challenge-section-color);
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
