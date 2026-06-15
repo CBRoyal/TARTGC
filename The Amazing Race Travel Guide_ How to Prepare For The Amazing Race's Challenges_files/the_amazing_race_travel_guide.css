@@ -165,7 +165,7 @@
 }
 .the_amazing_race_travel_guide_buttons:hover{
     transform: scale(1.05, 1.05);
-    color: var(--the-amazing-race-travel-guide-nav-links-visited-color);
+    color: var(--the-amazing-race-travel-guide-nav-links-active-color);
     cursor: pointer;
 }
 .the_amazing_race_travel_guide_buttons:active{
