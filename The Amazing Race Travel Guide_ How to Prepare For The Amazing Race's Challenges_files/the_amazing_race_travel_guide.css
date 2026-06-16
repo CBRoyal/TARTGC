@@ -219,3 +219,35 @@
         grid-area: footer;
     }
 }
+@media (max-width: 500px){
+    #the_amazing_race_travel_guide_challenge_content{
+        display: grid;
+        grid-template-columns: 20% 80%;
+        grid-template-rows: auto auto auto auto auto;
+        grid-template-areas:
+        "header header"
+        "sidebar main"
+        "physical physical"
+        "mental mental"
+        "footer footer";
+    }
+    .the_amazing_race_travel_guide_title{
+        grid-area: header;
+    }
+    .the_amazing_race_travel_guide_nav_links{
+        grid-area: sidebar;
+    }
+     #the_amazing_race_travel_guide_challenge_main_section{
+        grid-area: main;
+    }
+    #the_amazing_race_travel_guide_physical_challenge_section,
+    #the_amazing_race_travel_guide_dancing_challenge_subsection{
+        grid-area: physical;
+    }
+    #the_amazing_race_travel_guide_mental_challenge_section{
+        grid-area: mental;
+    }
+    .the_amazing_race_travel_guide_footbars{
+        grid-area: footer;
+    }
+}
